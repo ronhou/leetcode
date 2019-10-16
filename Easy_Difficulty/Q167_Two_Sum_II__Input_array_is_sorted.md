@@ -1,3 +1,6 @@
+#### 题目地址
+https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
+
 &emsp;&emsp;常规的思路解决这个问题，不要想太复杂，题目的意思就是从数组中查找两个数字，使得它们相加的和等于目标数字。  
 &emsp;&emsp;幸好数组已经是有序的了，不然还得排个序，果然有序数组对数组内找元素有很大的好处，这将会是以后遇到这样的问题的一个思路。
 
