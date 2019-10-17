@@ -7,8 +7,8 @@
 ```
 class Solution {
 public:
-    int trailingZeroes(int n) {
-        int nCountTwo = 0, nCountFive = 0;
+	int trailingZeroes(int n) {
+		int nCountTwo = 0, nCountFive = 0;
 		for (int i = 2; i <= n; ++i) {
 			int value = i;
 			while (value % 2 == 0) {
