@@ -14,3 +14,6 @@
 ## 深度优先搜索(DFS)
 - [Q1254. Number of Closed Islands](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_162/Q1254_Number_of_Closed_Islands.md)
 - [Q1255. Maximum Score Words Formed by Letters](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_162/Q1255_Maximum_Score_Words_Formed_by_Letters.md)
+
+## 动态规划(Dynamic Programming)
+- [Q1269. Number of Ways to Stay in the Same Place After Some Steps](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_164/Q1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
