@@ -17,3 +17,4 @@
 
 ## 动态规划(Dynamic Programming)
 - [Q1269. Number of Ways to Stay in the Same Place After Some Steps](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_164/Q1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
+- [Q1277. Count Square Submatrices with All Ones](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_165/Q1277_Count_Square_Submatrices_with_All_Ones.md)
