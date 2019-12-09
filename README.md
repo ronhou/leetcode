@@ -1,6 +1,9 @@
-# leetcode
+# LeetCode
 ## 双指针
 - [Q167. Two Sum II - Input array is sorted](https://github.com/ronhou/leetcode/blob/master/Daily/Easy_Difficulty/Q167_Two_Sum_II__Input_array_is_sorted.md)
+
+## 分治
+- [Q1274. Number of Ships in a Rectangle](https://github.com/ronhou/leetcode/blob/master/Contest/Biweekly_Contest_14/Q1274_Number_of_Ships_in_a_Rectangle.md)
 
 ## 数论
 - [Q172. Factorial Trailing Zeroes](https://github.com/ronhou/leetcode/blob/master/Daily/Easy_Difficulty/Q172_Factorial_Trailing_Zeroes.md)
@@ -10,6 +13,7 @@
 
 ## 广度优先搜索(BFS)
 - [Q1254. Number of Closed Islands](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_162/Q1254_Number_of_Closed_Islands.md)
+- [Q1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_166/Q1284_Minimum_Number_of_Flips_to_Convert_Binary_Matrix_to_Zero_Matrix.md)
 
 ## 深度优先搜索(DFS)
 - [Q1254. Number of Closed Islands](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_162/Q1254_Number_of_Closed_Islands.md)
