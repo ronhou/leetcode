@@ -23,3 +23,8 @@
 - [Q1269. Number of Ways to Stay in the Same Place After Some Steps](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_164/Q1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
 - [Q1277. Count Square Submatrices with All Ones](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_165/Q1277_Count_Square_Submatrices_with_All_Ones.md)
 - [Q1278. Palindrome Partitioning III](https://github.com/ronhou/leetcode/blob/master/Contest/Weekly_Contest_165/Q1278_Palindrome_Partitioning_III.md)
+
+## 贪心
+| 问题列表 | 我的题解 | 难度 |
+| ------- | -------- | --- |
+| [1921. Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/) | [greed after sorting by cost time](https://github.com/ronhou/leetcode/blob/master/Problems/1921_Eliminate_Maximum_Number_of_Monsters.md) | Medium |
