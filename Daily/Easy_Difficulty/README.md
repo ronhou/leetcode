@@ -1,1 +1,0 @@
-Daily easy diffculty problems and my solution.
