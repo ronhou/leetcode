@@ -26,16 +26,18 @@
 - [Q1278. Palindrome Partitioning III](https://github.com/ronhou/leetcode/blob/master/Solutions/Q1278_Palindrome_Partitioning_III.md)
 
 ## 贪心
-| 问题列表 | 我的题解 | 难度 |
-| ------- | -------- | --- |
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/) | [greed after sorting by cost time](https://github.com/ronhou/leetcode/blob/master/Solutions/1921_Eliminate_Maximum_Number_of_Monsters.md) | Medium |
 
 ## 栈
-| 问题列表 | 我的题解 | 难度 |
-| ------- | -------- | --- |
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
 | [224. Basic Calculator](https://leetcode.cn/problems/basic-calculator/) | [classic expression evaluation problem by stack](https://github.com/ronhou/leetcode/blob/master/Solutions/224_Basic_Calculator.md) | Hard |
 
-## 二叉树
-| 问题列表 | 我的题解 | 难度 |
-| ------- | -------- | --- |
+## Binary Tree General
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [112. Path Sum](https://leetcode.cn/problems/path-sum/) | [recursion](https://github.com/ronhou/leetcode/blob/master/Solutions/112_Path_Sum.md) | Easy |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [flatten the node and its children recursively](https://github.com/ronhou/leetcode/blob/master/Solutions/114_Flatten_Binary_Tree_to_Linked_List.md) | Medium |
+| [129. Sum Root to Leaf Numbers](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | [recursion](https://github.com/ronhou/leetcode/blob/master/Solutions/129_Sum_Root_to_Leaf_Numbers.md) | Medium |
