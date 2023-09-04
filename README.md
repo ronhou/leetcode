@@ -27,9 +27,9 @@
 ## 贪心
 | 问题列表 | 我的题解 | 难度 |
 | ------- | -------- | --- |
-| [1921. Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/) | [greed after sorting by cost time](https://github.com/ronhou/leetcode/blob/master/Problems/1921_Eliminate_Maximum_Number_of_Monsters.md) | Medium |
+| [1921. Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/) | [greed after sorting by cost time](https://github.com/ronhou/leetcode/blob/master/Solutions/1921_Eliminate_Maximum_Number_of_Monsters.md) | Medium |
 
 ## 栈
 | 问题列表 | 我的题解 | 难度 |
 | ------- | -------- | --- |
-| [224. Basic Calculator](https://leetcode.cn/problems/basic-calculator/) | [classic expression evaluation problem by stack](https://github.com/ronhou/leetcode/blob/master/Problems/224_Basic_Calculator.md) | Hard |
+| [224. Basic Calculator](https://leetcode.cn/problems/basic-calculator/) | [classic expression evaluation problem by stack](https://github.com/ronhou/leetcode/blob/master/Solutions/224_Basic_Calculator.md) | Hard |
