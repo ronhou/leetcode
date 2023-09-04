@@ -41,3 +41,4 @@
 | [112. Path Sum](https://leetcode.cn/problems/path-sum/) | [recursion](https://github.com/ronhou/leetcode/blob/master/Solutions/112_Path_Sum.md) | Easy |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [flatten the node and its children recursively](https://github.com/ronhou/leetcode/blob/master/Solutions/114_Flatten_Binary_Tree_to_Linked_List.md) | Medium |
 | [129. Sum Root to Leaf Numbers](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | [recursion](https://github.com/ronhou/leetcode/blob/master/Solutions/129_Sum_Root_to_Leaf_Numbers.md) | Medium |
+| [173. Binary Search Tree Iterator](https://leetcode.cn/problems/binary-search-tree-iterator/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/173_Binary_Search_Tree_Iterator.md) | Medium |
