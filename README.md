@@ -40,8 +40,11 @@
 | ------------ | ----------- | ---------- |
 | [112. Path Sum](https://leetcode.cn/problems/path-sum/) | [recursion](https://github.com/ronhou/leetcode/blob/master/Solutions/112_Path_Sum.md) | Easy |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | [flatten the node and its children recursively](https://github.com/ronhou/leetcode/blob/master/Solutions/114_Flatten_Binary_Tree_to_Linked_List.md) | Medium |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | [recursion](https://github.com/ronhou/leetcode/blob/master/Solutions/124_Binary_Tree_Maximum_Path_Sum.md) | Hard |
 | [129. Sum Root to Leaf Numbers](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | [recursion](https://github.com/ronhou/leetcode/blob/master/Solutions/129_Sum_Root_to_Leaf_Numbers.md) | Medium |
 | [173. Binary Search Tree Iterator](https://leetcode.cn/problems/binary-search-tree-iterator/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/173_Binary_Search_Tree_Iterator.md) | Medium |
+| [222. Count Complete Tree Nodes](https://leetcode.cn/problems/count-complete-tree-nodes/) | [recursion count](https://github.com/ronhou/leetcode/blob/master/Solutions/222_Count_Complete_Tree_Nodes.md) | Medium |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | [compare the path from root to node](https://github.com/ronhou/leetcode/blob/master/Solutions/236_Lowest_Common_Ancestor_of_a_Binary_Tree.md) | Medium |
 
 ## 其它
 | Problem list | My solution | Difficulty |
