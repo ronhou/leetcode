@@ -46,6 +46,14 @@
 | [222. Count Complete Tree Nodes](https://leetcode.cn/problems/count-complete-tree-nodes/) | [recursion count](https://github.com/ronhou/leetcode/blob/master/Solutions/222_Count_Complete_Tree_Nodes.md) | Medium |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | [compare the path from root to node](https://github.com/ronhou/leetcode/blob/master/Solutions/236_Lowest_Common_Ancestor_of_a_Binary_Tree.md) | Medium |
 
+## Binary Tree BFS
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [102. Binary Tree Level Order Traversal](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | [BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/102_Binary_Tree_Level_Order_Traversal.md) | Medium |
+| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | [BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/103_Binary_Tree_Zigzag_Level_Order_Traversal.md) | Medium |
+| [199. Binary Tree Right Side View](https://leetcode.cn/problems/binary-tree-right-side-view/) | [BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/199_Binary_Tree_Right_Side_View.md) | Medium |
+| [637. Average of Levels in Binary Tree](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | [BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/637_Average_of_Levels_in_Binary_Tree.md) | Easy |
+
 ## 其它
 | Problem list | My solution | Difficulty |
 | ------------ | ----------- | ---------- |
