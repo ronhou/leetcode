@@ -63,6 +63,15 @@
 | [230. Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/230_Kth_Smallest_Element_in_a_BST.md) | Medium |
 | [530. Minimum Absolute Difference in BST](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/description/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/530_Minimum_Absolute_Difference_in_BST.md) | Easy |
 
+## Graph General
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [DFS/BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/200_Number_of_Islands.md) | Medium |
+
+## 并查集
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | Todo: [并查集](https://github.com/ronhou/leetcode/blob/master/Solutions/200_Number_of_Islands.md) | Medium |
 
 ## 其它
 | Problem list | My solution | Difficulty |
