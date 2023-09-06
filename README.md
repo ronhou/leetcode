@@ -45,6 +45,8 @@
 | [173. Binary Search Tree Iterator](https://leetcode.cn/problems/binary-search-tree-iterator/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/173_Binary_Search_Tree_Iterator.md) | Medium |
 | [222. Count Complete Tree Nodes](https://leetcode.cn/problems/count-complete-tree-nodes/) | [recursion count](https://github.com/ronhou/leetcode/blob/master/Solutions/222_Count_Complete_Tree_Nodes.md) | Medium |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | [compare the path from root to node](https://github.com/ronhou/leetcode/blob/master/Solutions/236_Lowest_Common_Ancestor_of_a_Binary_Tree.md) | Medium |
+| [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.cn/problems/smallest-subtree-with-all-the-deepest-nodes/) | [LCA: BFS and hash map](https://github.com/ronhou/leetcode/blob/master/Solutions/865_Smallest_Subtree_with_all_the_Deepest_Nodes.md) | Medium |
+| [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/description/) | [LCA: BFS and hash map](https://github.com/ronhou/leetcode/blob/master/Solutions/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.md) | Medium |
 
 ## Binary Tree BFS
 | Problem list | My solution | Difficulty |
