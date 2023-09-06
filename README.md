@@ -56,6 +56,14 @@
 | [199. Binary Tree Right Side View](https://leetcode.cn/problems/binary-tree-right-side-view/) | [BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/199_Binary_Tree_Right_Side_View.md) | Medium |
 | [637. Average of Levels in Binary Tree](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | [BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/637_Average_of_Levels_in_Binary_Tree.md) | Easy |
 
+## Binary Search Tree
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [98. Validate Binary Search Tree](https://leetcode.cn/problems/validate-binary-search-tree/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/98_Validate_Binary_Search_Tree.md) | Medium |
+| [230. Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/230_Kth_Smallest_Element_in_a_BST.md) | Medium |
+| [530. Minimum Absolute Difference in BST](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/description/) | [inorder traversal](https://github.com/ronhou/leetcode/blob/master/Solutions/530_Minimum_Absolute_Difference_in_BST.md) | Easy |
+
+
 ## 其它
 | Problem list | My solution | Difficulty |
 | ------------ | ----------- | ---------- |
