@@ -69,6 +69,8 @@
 | [130. Surrounded Regions](https://leetcode.cn/problems/surrounded-regions/description/) | [DFS/BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/130_Surrounded_Regions.md) | Medium |
 | [133. Clone Graph](https://leetcode.cn/problems/clone-graph/) | [DFS/BFS + hash map](https://github.com/ronhou/leetcode/blob/master/Solutions/133_Clone_Graph.md) | Medium |
 | [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [DFS/BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/200_Number_of_Islands.md) | Medium |
+| [207. Course Schedule](https://leetcode.cn/problems/course-schedule/) | [Topologic Ordering](https://github.com/ronhou/leetcode/blob/master/Solutions/207_Course_Schedule.md) | Medium |
+| [210. Course Schedule II](https://leetcode.cn/problems/course-schedule-ii/) | [Topologic Ordering](https://github.com/ronhou/leetcode/blob/master/Solutions/210_Course_Schedule_II.md) | Medium |
 | [399. Evaluate Division](https://leetcode.cn/problems/evaluate-division/) | [Floyed algorithm](https://github.com/ronhou/leetcode/blob/master/Solutions/399_Evaluate_Division.md) | Medium |
 
 ## Binary Search
