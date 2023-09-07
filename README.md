@@ -71,6 +71,11 @@
 | [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [DFS/BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/200_Number_of_Islands.md) | Medium |
 | [399. Evaluate Division](https://leetcode.cn/problems/evaluate-division/) | [Floyed algorithm](https://github.com/ronhou/leetcode/blob/master/Solutions/399_Evaluate_Division.md) | Medium |
 
+## Binary Search
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [2594. Minimum Time to Repair Cars](https://leetcode.cn/problems/minimum-time-to-repair-cars/) | [Binary Search](https://github.com/ronhou/leetcode/blob/master/Solutions/2594_Minimum_Time_to_Repair_Cars.md) | Medium |
+
 ## 并查集
 | Problem list | My solution | Difficulty |
 | ------------ | ----------- | ---------- |
