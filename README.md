@@ -66,6 +66,7 @@
 ## Graph General
 | Problem list | My solution | Difficulty |
 | ------------ | ----------- | ---------- |
+| [130. Surrounded Regions](https://leetcode.cn/problems/surrounded-regions/description/) | [DFS/BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/130_Surrounded_Regions.md) | Medium |
 | [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [DFS/BFS](https://github.com/ronhou/leetcode/blob/master/Solutions/200_Number_of_Islands.md) | Medium |
 
 ## 并查集
