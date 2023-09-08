@@ -1,29 +1,29 @@
 # [Contests](./Contests.md)
 # 分类
 ## 双指针
-- [Q167. Two Sum II - Input array is sorted](./Solutions/Q167_Two_Sum_II__Input_array_is_sorted.md)
+- [Q167. Two Sum II - Input array is sorted](./Solutions/167_Two_Sum_II__Input_array_is_sorted.md)
 
 ## 分治
-- [Q1274. Number of Ships in a Rectangle](./Solutions/Q1274_Number_of_Ships_in_a_Rectangle.md)
+- [Q1274. Number of Ships in a Rectangle](./Solutions/1274_Number_of_Ships_in_a_Rectangle.md)
 
 ## 数论
-- [Q172. Factorial Trailing Zeroes](./Solutions/Q172_Factorial_Trailing_Zeroes.md)
+- [Q172. Factorial Trailing Zeroes](./Solutions/172_Factorial_Trailing_Zeroes.md)
 
 ## 投票算法
-- [Q169. Majority Element](./Solutions/Q169_Majority_Element.md)
+- [Q169. Majority Element](./Solutions/169_Majority_Element.md)
 
 ## 广度优先搜索(BFS)
-- [Q1254. Number of Closed Islands](./Solutions/Q1254_Number_of_Closed_Islands.md)
-- [Q1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./Solutions/Q1284_Minimum_Number_of_Flips_to_Convert_Binary_Matrix_to_Zero_Matrix.md)
+- [Q1254. Number of Closed Islands](./Solutions/1254_Number_of_Closed_Islands.md)
+- [Q1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./Solutions/1284_Minimum_Number_of_Flips_to_Convert_Binary_Matrix_to_Zero_Matrix.md)
 
 ## 深度优先搜索(DFS)
-- [Q1254. Number of Closed Islands](./Solutions/Q1254_Number_of_Closed_Islands.md)
-- [Q1255. Maximum Score Words Formed by Letters](./Solutions/Q1255_Maximum_Score_Words_Formed_by_Letters.md)
+- [Q1254. Number of Closed Islands](./Solutions/1254_Number_of_Closed_Islands.md)
+- [Q1255. Maximum Score Words Formed by Letters](./Solutions/1255_Maximum_Score_Words_Formed_by_Letters.md)
 
 ## 动态规划(Dynamic Programming)
-- [Q1269. Number of Ways to Stay in the Same Place After Some Steps](./Solutions/Q1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
-- [Q1277. Count Square Submatrices with All Ones](./Solutions/Q1277_Count_Square_Submatrices_with_All_Ones.md)
-- [Q1278. Palindrome Partitioning III](./Solutions/Q1278_Palindrome_Partitioning_III.md)
+- [Q1269. Number of Ways to Stay in the Same Place After Some Steps](./Solutions/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
+- [Q1277. Count Square Submatrices with All Ones](./Solutions/1277_Count_Square_Submatrices_with_All_Ones.md)
+- [Q1278. Palindrome Partitioning III](./Solutions/1278_Palindrome_Partitioning_III.md)
 
 ## 贪心
 | Problem list | My solution | Difficulty |
