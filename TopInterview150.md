@@ -15,3 +15,10 @@
 | [52. N-Queens II](https://leetcode.cn/problems/n-queens-ii/) | [Backtracking and recursion](./Solutions/52_N-Queens_II.md) | Hard |
 | [77. Combinations](https://leetcode.cn/problems/combinations/) | [Combinations by backtracking](./Solutions/77_Combinations.md) | Medium |
 | [79. Word Search](https://leetcode.cn/problems/word-search/) | [DFS](./Solutions/79_Word_Search.md) | Medium |
+
+## Trie
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [208. Implement Trie (Prefix Tree)](https://leetcode.cn/problems/implement-trie-prefix-tree/) | [Trie](./Solutions/208_Implement_Trie.md) | Medium |
+| [211. Design Add and Search Words Data Structure](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | [Trie](./Solutions/211_Design_Add_and_Search_Words_Data_Structure.md) | Medium |
+| [212. Word Search II](https://leetcode.cn/problems/word-search-ii/) | [Backstracking with Trie](./Solutions/212_Word_Search_II.md) | Hard |
