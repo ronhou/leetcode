@@ -85,4 +85,5 @@
 ## 其它
 | Problem list | My solution | Difficulty |
 | ------------ | ----------- | ---------- |
+| [2596. Check Knight Tour Configuration](https://leetcode.cn/problems/check-knight-tour-configuration/) | [simulation](./Solutions/2596_Check_Knight_Tour_Configuration.md) | Medium |
 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/) | [hash table and sort](./Solutions/2605_Form_Smallest_Number_From_Two_Digit_Arrays.md) | Easy |
