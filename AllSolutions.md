@@ -70,6 +70,7 @@
 | [207. Course Schedule](https://leetcode.cn/problems/course-schedule/) | [Topologic Ordering](./Solutions/207_Course_Schedule.md) | Medium |
 | [210. Course Schedule II](https://leetcode.cn/problems/course-schedule-ii/) | [Topologic Ordering](./Solutions/210_Course_Schedule_II.md) | Medium |
 | [399. Evaluate Division](https://leetcode.cn/problems/evaluate-division/) | [Floyed algorithm](./Solutions/399_Evaluate_Division.md) | Medium |
+| [1462. Course Schedule IV](https://leetcode.cn/problems/course-schedule-iv/) | [BFS/DFS + Typologic ordering](./Solutions/1462_Course_Schedule_IV.md) | Medium |
 
 ## Binary Search
 | Problem list | My solution | Difficulty |
