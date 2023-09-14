@@ -85,5 +85,6 @@
 ## 其它
 | Problem list | My solution | Difficulty |
 | ------------ | ----------- | ---------- |
+| [1222. Queens That Can Attack the King](https://leetcode.cn/problems/queens-that-can-attack-the-king/) | [simulation](./Solutions/1222_Queens_That_Can_Attack_the_King.md) | Medium |
 | [2596. Check Knight Tour Configuration](https://leetcode.cn/problems/check-knight-tour-configuration/) | [simulation](./Solutions/2596_Check_Knight_Tour_Configuration.md) | Medium |
 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/) | [hash table and sort](./Solutions/2605_Form_Smallest_Number_From_Two_Digit_Arrays.md) | Easy |
