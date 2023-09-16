@@ -19,9 +19,12 @@
 - [Q1255. Maximum Score Words Formed by Letters](./Solutions/1255_Maximum_Score_Words_Formed_by_Letters.md)
 
 ## 动态规划(Dynamic Programming)
-- [Q1269. Number of Ways to Stay in the Same Place After Some Steps](./Solutions/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md)
-- [Q1277. Count Square Submatrices with All Ones](./Solutions/1277_Count_Square_Submatrices_with_All_Ones.md)
-- [Q1278. Palindrome Partitioning III](./Solutions/1278_Palindrome_Partitioning_III.md)
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [198. House Robber](https://leetcode.cn/problems/house-robber/) | [Dynamic Programming](./Solutions/198_House_Robber.md) | Medium |
+| [1269. Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Dynamic Programming](./Solutions/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md) | Hard |
+| [1277. Count Square Submatrices with All Ones](https://leetcode.cn/problems/count-square-submatrices-with-all-ones/) | [Dynamic Programming](./Solutions/1277_Count_Square_Submatrices_with_All_Ones.md) | Medium |
+| [1278. Palindrome Partitioning III](https://leetcode.cn/problems/palindrome-partitioning-iii/) | [Dynamic Programming](./Solutions/1278_Palindrome_Partitioning_III.md) | Hard |
 
 ## 贪心
 | Problem list | My solution | Difficulty |
