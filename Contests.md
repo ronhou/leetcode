@@ -87,3 +87,18 @@
 | [Check if Strings Can be Made Equal With Operations II](https://leetcode.cn/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | 4 | [Count and comapre the number of letters](./Solutions/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II.md) |
 | [Maximum Sum of Almost Unique Subarray](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/) | 5 | [Count the elements in a k-size sliding window](./Solutions/2841_Maximum_Sum_of_Almost_Unique_Subarray.md) |
 | [Count K-Subsequences of a String With Maximum Beauty](https://leetcode.cn/problems/count-k-subsequences-of-a-string-with-maximum-beauty/) | 6 | [Greedy after sorting the f(c), then calculate the combination](./Solutions/2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty.md) |
+
+### [Biweekly Contest 113](https://leetcode.cn/contest/biweekly-contest-113/)
+> 第一题使用线性扫描进行模拟，很快就通过了。  
+> 第二题一直没找到方法，想出来各种场景，又无法证明解决方法的可行性，最后突发奇想，决定以贪心的思路解决重复次数最多的那个数字即可，这个思路顺利通过了此题，但是我无法写出明确的证明。  
+> 第三题，看了很久，想了很久，不会解，感觉有点像二维的滑动窗口，应该是从k的角度出发解这一题。  
+> 本来卡在了第三题，后来一想，怎么也得看看第四题的题目，虽然它分数更高，难度更大，怎么也得瞧瞧这一题。  
+> 发现第四题就是计算将有向图转为一棵树的代价，想着想着便来了思路，成功在比赛结束前解决了这道题。  
+> 第四题，先构建邻接表，然后使用DFS计算出0为根的树的代价，最后再进行一次DFS或者BFS更新其它结点的代价即可。  
+
+| Problem list | Score | My Solution |
+| ------------ | :---: | ----------- |
+| [Minimum Right Shifts to Sort the Array](https://leetcode.cn/problems/minimum-right-shifts-to-sort-the-array/) | 3 | [simulation](./Solutions/2855_Minimum_Right_Shifts_to_Sort_the_Array.md) |
+| [Minimum Array Length After Pair Removals](https://leetcode.cn/problems/minimum-array-length-after-pair-removals/) | 4 | [Greedy](./Solutions/2856_Minimum_Array_Length_After_Pair_Removals.md) |
+| [Count Pairs of Points With Distance k](https://leetcode.cn/problems/count-pairs-of-points-with-distance-k/) | 5 | [TODO]() |
+| [Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.cn/problems/minimum-edge-reversals-so-every-node-is-reachable/) | 6 | [DFS + DFS/BFS](./Solutions/2858_Minimum_Edge_Reversals_So_Every_Node_Is_Reachable.md)
