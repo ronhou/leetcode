@@ -22,3 +22,11 @@
 | [208. Implement Trie (Prefix Tree)](https://leetcode.cn/problems/implement-trie-prefix-tree/) | [Trie](./Solutions/208_Implement_Trie.md) | Medium |
 | [211. Design Add and Search Words Data Structure](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | [Trie](./Solutions/211_Design_Add_and_Search_Words_Data_Structure.md) | Medium |
 | [212. Word Search II](https://leetcode.cn/problems/word-search-ii/) | [Backstracking with Trie](./Solutions/212_Word_Search_II.md) | Hard |
+
+## Divide & Conquer
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) | [Divide & Conquer](./Solutions/108_Convert_Sorted_Array_to_Binary_Search_Tree.md) | Easy |
+| [148. Sort List](https://leetcode.cn/problems/sort-list/) | [Merge sort](./Solutions/148_Sort_List.md) | Medium |
+| [427. Construct Quad Tree](https://leetcode.cn/problems/construct-quad-tree/) | [Divide & Conquer](./Solutions/427_Construct_Quad_Tree.md) | Medium |
+| [23. Merge k Sorted Lists](https://leetcode.cn/problems/merge-k-sorted-lists/) | [Divide & Conquer](./Solutions/23_Merge_k_Sorted_Lists.md) | Hard |
