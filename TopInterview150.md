@@ -30,3 +30,9 @@
 | [148. Sort List](https://leetcode.cn/problems/sort-list/) | [Merge sort](./Solutions/148_Sort_List.md) | Medium |
 | [427. Construct Quad Tree](https://leetcode.cn/problems/construct-quad-tree/) | [Divide & Conquer](./Solutions/427_Construct_Quad_Tree.md) | Medium |
 | [23. Merge k Sorted Lists](https://leetcode.cn/problems/merge-k-sorted-lists/) | [Divide & Conquer](./Solutions/23_Merge_k_Sorted_Lists.md) | Hard |
+
+## Kadane's Algorithm
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [53. Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | [Kadane's Algorithm (Dynamic programming)](./Solutions/53_Maximum_Subarray.md) | Medium |
+| [918. Maximum Sum Circular Subarray](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | [Kadane's Algorithm (Dynamic programming)](./Solutions/918_Maximum_Sum_Circular_Subarray.md) | Medium |
