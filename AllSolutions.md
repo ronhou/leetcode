@@ -23,6 +23,7 @@
 | ------------ | ----------- | ---------- |
 | [198. House Robber](https://leetcode.cn/problems/house-robber/) | [Dynamic Programming](./Solutions/198_House_Robber.md) | Medium |
 | [213. House Robber II](https://leetcode.cn/problems/house-robber-ii/) | [Dynamic Programming](./Solutions/213_House_Robber_II.md) | Medium |
+| [337. House Robber III](https://leetcode.cn/problems/house-robber-iii/) | [Trre dynamic programming](./Solutions/337_House_Robber_III.md) | Medium |
 | [1269. Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.cn/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Dynamic Programming](./Solutions/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.md) | Hard |
 | [1277. Count Square Submatrices with All Ones](https://leetcode.cn/problems/count-square-submatrices-with-all-ones/) | [Dynamic Programming](./Solutions/1277_Count_Square_Submatrices_with_All_Ones.md) | Medium |
 | [1278. Palindrome Partitioning III](https://leetcode.cn/problems/palindrome-partitioning-iii/) | [Dynamic Programming](./Solutions/1278_Palindrome_Partitioning_III.md) | Hard |
