@@ -36,3 +36,13 @@
 | ------------ | ----------- | ---------- |
 | [53. Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | [Kadane's Algorithm (Dynamic programming)](./Solutions/53_Maximum_Subarray.md) | Medium |
 | [918. Maximum Sum Circular Subarray](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | [Kadane's Algorithm (Dynamic programming)](./Solutions/918_Maximum_Sum_Circular_Subarray.md) | Medium |
+
+## Binary Search
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [35. Search Insert Position](https://leetcode.cn/problems/search-insert-position/) | [Binary Search](./Solutions/35_Search_Insert_Position.md) | Easy|
+| [74. Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/) | [Binary Search](./Solutions/74_Search_a_2D_Matrix.md) | Medium |
+| [162. Find Peak Element](https://leetcode.cn/problems/find-peak-element/) | [Simulation or Binary Search](./Solutions/162_Find_Peak_Element.md) | Medium |
+| [33. Search in Rotated Sorted Array](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | [Binary Search](./Solutions/33_Search_in_Rotated_Sorted_Array.md) | Medium |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Binary Search](./Solutions/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md) | Medium |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | [Binary Seach](./Solutions/153_Find_Minimum_in_Rotated_Sorted_Array.md) | Medium |
