@@ -15,8 +15,9 @@
 - [Q1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](./Solutions/1284_Minimum_Number_of_Flips_to_Convert_Binary_Matrix_to_Zero_Matrix.md)
 
 ## 深度优先搜索(DFS)
-- [Q1254. Number of Closed Islands](./Solutions/1254_Number_of_Closed_Islands.md)
-- [Q1255. Maximum Score Words Formed by Letters](./Solutions/1255_Maximum_Score_Words_Formed_by_Letters.md)
+- [1254. Number of Closed Islands](./Solutions/1254_Number_of_Closed_Islands.md)
+- [1255. Maximum Score Words Formed by Letters](./Solutions/1255_Maximum_Score_Words_Formed_by_Letters.md)
+- [1993. Operations on Tree](./Solutions/1993_Operations_on_Tree.md)
 
 ## 动态规划(Dynamic Programming)
 | Problem list | My solution | Difficulty |
