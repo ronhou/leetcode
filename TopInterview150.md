@@ -1,3 +1,9 @@
+> # Summary
+> + 150 Original & Classic Questions
+> + Covers comprehensive interview topics
+> + Best for 3+ months of prep time
+> + Problems support high-quality editorials
+
 ## Graph BFS
 | Problem list | My solution | Difficulty |
 | ------------ | ----------- | ---------- |
@@ -46,3 +52,13 @@
 | [33. Search in Rotated Sorted Array](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | [Binary Search](./Solutions/33_Search_in_Rotated_Sorted_Array.md) | Medium |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Binary Search](./Solutions/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md) | Medium |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | [Binary Seach](./Solutions/153_Find_Minimum_in_Rotated_Sorted_Array.md) | Medium |
+
+## Bit Manipulation
+| Problem list | My solution | Difficulty |
+| ------------ | ----------- | ---------- |
+| [67. Add Binary](https://leetcode.cn/problems/add-binary/) | [Simulation](./Solutions/67_Add_Binary.md) | Easy |
+| [190. Reverse Bits](https://leetcode.cn/problems/reverse-bits/) | [Simulation](./Solutions/190_Reverse_Bits.md) | Easy |
+| [191. Number of 1 Bits](https://leetcode.cn/problems/number-of-1-bits/) | [Simulation or Bit Manipulation](./Solutions/191_Number_of_1_Bits.md) | Easy |
+| [136. Single Number](https://leetcode.cn/problems/single-number/) | [Bit Mainpulation](./Solutions/136_Single_Number.md) | Easy |
+| [137. Single Number II](https://leetcode.cn/problems/single-number-ii/) | [Bit Mainpulation or Hash map](./Solutions/137_Single_Number_II.md) | Medium |
+| [201. Bitwise AND of Numbers Range](https://leetcode.cn/problems/bitwise-and-of-numbers-range/) | [Bit Mainpulation](./Solutions/201_Bitwise_AND_of_Numbers_Range.md) | Medium |
